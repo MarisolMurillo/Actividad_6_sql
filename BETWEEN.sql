@@ -1,0 +1,3 @@
+SELECT DATE, population
+FROM species
+WHERE date BETWEEN '2022-06-26' AND '2022-06-28'
